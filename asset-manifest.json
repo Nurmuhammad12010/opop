@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/opopn/static/css/main.b136d567.css",
+    "main.js": "/my-app/opopn/static/js/main.319e7bff.js",
+    "static/js/787.95898499.chunk.js": "/my-app/opopn/static/js/787.95898499.chunk.js",
+    "index.html": "/my-app/opopn/index.html",
+    "main.b136d567.css.map": "/my-app/opopn/static/css/main.b136d567.css.map",
+    "main.319e7bff.js.map": "/my-app/opopn/static/js/main.319e7bff.js.map",
+    "787.95898499.chunk.js.map": "/my-app/opopn/static/js/787.95898499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b136d567.css",
+    "static/js/main.319e7bff.js"
+  ]
+}
