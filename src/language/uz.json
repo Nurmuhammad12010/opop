@@ -1,0 +1,38 @@
+{
+    "translation": {
+        "navbar":{
+            "tash": "Tashkilot",
+            "imkon": "Imkoniyat",
+            "hamkor": "Hamkor",
+            "yordam": "Yordam",
+            "kirish": "Kirish",
+            "ulash":"Tashkilotni ulash"
+        },
+        "kirish":{
+            "eMaktab" :" kirish eMAktab ",
+            "tizim": "Tizimda ro‘yxatdan o‘tmaganmisiz?",
+            "loginru": "Login",
+            "parol": "parol",
+            "kirishtizim": "tizimga kiring",
+            "unutish": "Login yoki parolni unutdingizmi?",
+            "tiklash": "Loginni tiklash."
+        } ,
+        "futer":{
+            "haqida":"Tashkilot haqida",
+            "bizhaqimizda":"Biz haqimizda",
+            "yangilik":"Yangiliklar",
+            "malumot": "Aloqa uchun ma'lumotlar",
+            "imkon": "Imkoniyatlar",
+            "uqituvchi": "O‘qituvchilarga",
+            "otaona": "Ota-onalarga",
+            "uquvchi": "O‘quvchilarga",
+            "organlar": "Davlat organlariga",
+            "hamkor": " Hamkorlarga",
+            "dastur": "Hamkorlik dasturlari",
+            "quvvatlash": "Qo‘llab-quvvatlash",
+            "portal": "Qo‘llab-quvvatlash xizmati portal",
+            "tashkilotulash": "Tashkilotni ulash",
+            "shartnoma": "Foydalanuvchining shartnomasi"
+       }
+    }
+}

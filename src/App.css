@@ -1,0 +1,188 @@
+/* .header{
+  background-color: white;
+  height: 100px;
+  width: 1920px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0px 1px 10px black ;
+}
+body{
+  background-color: aliceblue;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  display: flex;
+}
+li{
+  list-style: none;
+  cursor: pointer;
+  color: gray;
+  margin-left: 55px;
+}
+.header{
+  display: flex;
+}
+img{
+  margin-left: 500px;
+  width: 150px;
+  height: 40px;
+}
+select{
+ border: none;
+ background-color: white;
+ color: blue;
+ margin-left: 40px;
+ width: 60px;
+ height: 40px;
+ 
+}
+.button{
+  border-radius: 7px;
+  border: 3px solid aqua;
+  height: 30px;
+  width: 80px;
+  color: blue;
+  background-color: white;
+  margin-left: 20px;
+}
+.knopka2{
+  border-radius: 5px;
+  height: 30px;
+  width: 130px;
+  color: green;
+  border: 2px solid green;
+  margin-left: 10px;
+}
+li:hover{
+    color: black;
+}
+.tashkilot{
+  margin-left: 80px;
+}
+select:hover{
+  background-color: aliceblue;
+
+}
+.button:hover{
+  background-color: blue;
+  color: white;
+}
+.knopka2:hover{
+  background-color: green;
+  color: white;
+}
+
+.unutish{
+  background-color: aliceblue;
+  width: 992px;
+  height: 80px;
+  margin-left: 500px;
+  display: flex;
+  padding-left: 20px;
+  align-items: center;
+  border: 1px solid black;
+}
+.unitishh1{
+  margin-left: 25px;
+}
+.ikonka{
+  font-size: xx-large;
+}
+footer{
+  background-color: rgb(39, 37, 37);
+  color: white;
+  display: grid;
+  height: 180px;
+  margin-top: 75px;
+  grid-template-columns: auto auto auto auto;
+}
+footer ul {
+  display: block;
+}
+.tashkilotf{
+  margin-left: 470px;
+
+}
+.foot{
+  margin-top: 20px;
+}
+.p{
+  margin: 5px;
+  cursor: pointer;
+  color: gray;
+  list-style: none;
+  width: 80px;
+}
+.p:hover{
+  color: lightgreen;
+}
+.portal{
+  color: lightgreen;
+  cursor: pointer ;
+}
+.witdh{
+  width: 180px;
+}
+.witdh1{
+  width: 120px;
+}
+.width2{
+  width: 190px;
+}
+.width3{
+  width: 95px;
+}
+.width4{
+  width: 90px;
+}
+/* footer .ikonkaf{
+  display: block;
+} */
+/*
+.ikonkaf{
+  font-size: x-large;
+  margin-left: 470px;
+  display: flex;
+  position: relative;
+  bottom: 20px;
+}
+.ikonkau{
+  margin: 3px;
+  color: rgb(177, 187, 196);
+}
+.ikonkau:hover{
+  color: white;
+}
+.knopka3{
+  color: green;
+  height: 40px;
+  width: 160px;
+  border: 3px solid green ;
+  background-color: rgb(39, 37, 37);
+  border-radius: 5px;
+  position: relative;
+  left: 700px;
+  bottom: 40px;
+}
+.knopka3:hover{
+  color: white;
+  background-color: green;
+}
+.footer2{
+  background-color: black;
+  height: 100px;
+  position: relative;
+  bottom: 75px;
+  display: flex;
+  justify-content: center;
+  align-items: top;
+  color: gray;
+  cursor: pointer;
+}
+.shart:hover{
+  color: green;
+} */
